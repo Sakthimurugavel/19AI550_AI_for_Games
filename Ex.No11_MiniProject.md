@@ -1,5 +1,5 @@
 # Ex.No: 11  Mini Project 
-### DATE:12/11/2024                                                                           
+### DATE: 25/10/2024                                                                           
 ### REGISTER NUMBER : 212222240088
 ### AIM: 
 To write a python program to simulate the game using ---------------.
